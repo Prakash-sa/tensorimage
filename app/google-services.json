@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633888069094",
+    "firebase_url": "https://first-e8f34.firebaseio.com",
+    "project_id": "first-e8f34",
+    "storage_bucket": "first-e8f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633888069094:android:ea55c77fc8117b07017227",
+        "android_client_info": {
+          "package_name": "com.example.tensorflowlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633888069094-qr3cbv0bu1n40em0ia293067lc2po6s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tensorflowlite",
+            "certificate_hash": "abfcce020ffe691c268b10e8afcab22247edfd1f"
+          }
+        },
+        {
+          "client_id": "633888069094-6qen6frmdugj75cb20ivvhj1qachmihl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDYYGXF95pZNdUQI-GnAyXp7_yM5gZ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633888069094-6qen6frmdugj75cb20ivvhj1qachmihl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
